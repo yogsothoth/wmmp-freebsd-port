@@ -2,7 +2,7 @@
 # $FreeBSD$
 
 PORTNAME=	wmmp
-PORTVERSION=	0.11.0
+PORTVERSION=	0.12.0
 CATEGORIES=	x11 windowmaker
 
 MAINTAINER=	nicolasherry@gmail.com
