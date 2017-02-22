@@ -13,8 +13,8 @@ LICENSE_FILE=	${WRKSRC}/COPYING
 
 USE_GITHUB=	yes
 GH_ACCOUNT=	yogsothoth
-USES=		autoreconf gmake pkgconfig
-USE_XORG=	xpm x11 xext
 GNU_CONFIGURE=	yes
+USES+=		autoreconf libtool gmake pkgconfig
+USE_XORG=	xpm x11 xext
 
 .include <bsd.port.mk>
