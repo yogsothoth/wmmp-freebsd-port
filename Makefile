@@ -2,7 +2,7 @@
 # $FreeBSD: head/audio/wmmp/Makefile 466174 2018-04-01 17:36:45Z tobik $
 
 PORTNAME=	wmmp
-PORTVERSION=	0.12.4
+PORTVERSION=	0.12.5
 CATEGORIES=	audio windowmaker
 
 MAINTAINER=	nicolasherry@gmail.com
